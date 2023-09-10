@@ -2,7 +2,9 @@
 Extract matches from PGN
 
 . Start SOMU.EXE and press [F10]
+
 . Select the PGN (example.pgn)
+
 . Select the TXT file (test.txt)
 
 It will create TEST.PGN with the games defined in test.txt
